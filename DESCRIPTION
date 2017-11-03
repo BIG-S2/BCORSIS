@@ -1,0 +1,13 @@
+Package: bcorsis
+Type: Package
+Title: Ball Correlation Sure Independence Screening
+Version: 1.1
+Author: ChengFeng Liu, WenLiang Pan, XueQin Wang, HongTu Zhu, Jin Zhu
+Maintainer: Jin Zhu <zhuj37@mail.sysu.edu.cn>
+Description: Standardized Ball Correlation For Sure Independence Screening.
+License: GPL-3 + file LICENSE
+Depends: R (>= 3.0.0), gam, survival, snowfall, snow
+Packaged: 2017-10-21 04:33:17 UTC; user
+LazyData: true
+RoxygenNote: 6.0.1
+NeedsCompilation: yes
